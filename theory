@@ -1,0 +1,6 @@
+JDBC - Java Database Connectivity (JDBC API) - Пишем sql cами
+
+JPA - Java Persistence Api (ORM - Object Relation Model) - Описываем проекции таблиц, раставляем метаданные - далее работает фреймворк
+
+JPA работает все равно поверх JDBC
+
